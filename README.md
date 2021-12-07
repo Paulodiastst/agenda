@@ -1,4 +1,4 @@
-# <p align="center">  Java Web | Agenda Web </p>
+# <p align="center">  Java Web | Agenda </p>
 
 #### 📝 Sobre o Sistema:
 
